@@ -1,0 +1,2 @@
+Default-Badge: default
+Chat-Format: '%destichat_badge% %player_name%: %message%'

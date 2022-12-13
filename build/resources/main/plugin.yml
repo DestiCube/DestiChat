@@ -1,0 +1,19 @@
+name: DestiChat
+main: com.desticube.chat.ChatMain
+version: 1.0-SNAPSHOT
+description: DestiCube's main chat
+api-version: 1.19
+softdepend: [ DestiPlaceholders, LuckPerms ]
+commands:
+  badges:
+    description: "View your badges"
+  createbadge:
+    description: "Create a badge"
+  delbadge:
+    description: "Delete a badge"
+  emojis:
+    description: "View all the emojis"
+  delemoji:
+    description: "Delete an emoji"
+  createemoji:
+    description: "Create an emoji"
